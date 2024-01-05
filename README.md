@@ -1,6 +1,5 @@
 ### Hi, I'm Andrés 👨‍💻!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+developer+and+passionate+about+learning!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=00F750&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Software+and+desktop+developer;Passionate+about+learning!)](https://git.io/typing-svg)
 ### 💫 About Me:
 Software Engineer graduated from the bachelor's of science in computer engineering in UNIMINUTO, Colombia. Passionate for software development and learning processes. Strong background using technologies from different areas such as frontend, backend and also desktop development. Experience developing custom applications using technologies such as python, pandas, .net, Java - Springboot, PL/SQl, Angular. Fan of open-source technologies, new technologies and continuous learning.<br>
 
