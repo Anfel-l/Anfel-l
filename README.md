@@ -5,7 +5,18 @@
 Software Engineer graduated from the bachelor's of science in computer engineering in UNIMINUTO, Colombia. Passionate for software development and learning processes. Strong background using technologies from different areas such as frontend, backend and also desktop development. Experience developing custom applications using technologies such as python, pandas, .net, Java - Springboot, PL/SQl, Angular. Fan of open-source technologies, new technologies and continuous learning.<br>
 ***
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_felipe._l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anfel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@felipelugo1047) 
+<p align="center">
+  <a href="https://instagram.com/_felipe._l">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/anfel">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://youtube.com/@felipelugo1047">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
 ***
 ### 💻 Tech Stack:
 <details>
