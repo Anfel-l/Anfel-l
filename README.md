@@ -8,12 +8,15 @@ Software Engineer graduated from the bachelor's of science in computer engineeri
 <p align="center">
   <a href="https://instagram.com/_felipe._l">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anfel">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://youtube.com/@felipelugo1047">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anfellr11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
