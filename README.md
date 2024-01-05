@@ -7,18 +7,19 @@ Software Engineer graduated from the bachelor's of science in computer engineeri
 ### 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/_felipe._l">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;">
+  </a>
   <a href="https://linkedin.com/in/anfel">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;">
+  </a>
   <a href="https://youtube.com/@felipelugo1047">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" style="margin-right: 10px;">
+  </a>
   <a href="mailto:anfellr11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 
 ***
 ### 💻 Tech Stack:
@@ -90,6 +91,9 @@ Software Engineer graduated from the bachelor's of science in computer engineeri
 
 ***
 ### 📊 GitHub Stats:
-<a text="align">![](https://github-readme-stats.vercel.app/api?username=Anfel-l&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anfel-l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anfel-l&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfel-l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 36%;">
+</div>
+
 ***
